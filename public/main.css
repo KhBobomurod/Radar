@@ -1,0 +1,10 @@
+body{
+  background: #e2b41d;
+}
+
+.radar{
+  background: #efe3e3;
+  margin: 15px;
+  border-radius: 12px;
+  padding: 5px;
+}
